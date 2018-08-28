@@ -1,5 +1,9 @@
 # Hands-on-Session
 
+
+Please get start with the following [Guidelines](https://github.com/EMSC-CSEM/Hands-on-Session/blob/master/Hands-On-Session.pdf).
+
+--
 Within the framework of the European EPOS-Seismology project, EMSC has
 developed newest seismological products and services. Here it is proposed
 to the users to interact, in a friendly manner, with these recent developments
@@ -9,4 +13,3 @@ Hands-on Session is not only to get an idea of the scientic resources made
 online availabel by EMSC but also to test in more details how to compose
 its own applications through dedicated use cases.
 
-Please get start with the following [Guidelines](https://github.com/EMSC-CSEM/Hands-on-Session/blob/master/Hands-On-Session.pdf).
