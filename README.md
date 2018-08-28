@@ -9,4 +9,4 @@ Hands-on Session is not only to get an idea of the scientic resources made
 online availabel by EMSC but also to test in more details how to compose
 its own applications through dedicated use cases.
 
-Please get start with the document entitled *Hands-On-Session.pdf*
+Please get start with the document entitled _Hands-On-Session.pdf_
