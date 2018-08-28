@@ -1,6 +1,6 @@
 # Hands-on-Session
 
-Please get start with the document entitled Hands-On-Session.pdf.
+Please get start with the document entitled *Hands-On-Session.pdf*.
 
 Within the framework of the European EPOS-Seismology project, EMSC has
 developed newest seismological products and services. Here it is proposed
