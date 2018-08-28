@@ -3,7 +3,6 @@
 
 Please get start with the following [Guidelines](https://github.com/EMSC-CSEM/Hands-on-Session/blob/master/Hands-On-Session.pdf).
 
---
 Within the framework of the European EPOS-Seismology project, EMSC has
 developed newest seismological products and services. Here it is proposed
 to the users to interact, in a friendly manner, with these recent developments
